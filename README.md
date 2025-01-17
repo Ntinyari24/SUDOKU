@@ -36,32 +36,5 @@ Usage
     Generate a New Puzzle: Select a difficulty level (Easy, Medium, Hard), and the program will create a new Sudoku puzzle for you.
     Follow the on-screen prompts for detailed instructions.
 
-Screenshots
 
-Contributing
-
-Contributions are welcome! If you have ideas to improve this project:
-
-    Fork the repository.
-    Create a new branch for your feature:
-
-git checkout -b feature-name
-
-Commit your changes:
-
-git commit -m "Add feature-name"
-
-Push to your branch:
-
-    git push origin feature-name
-
-    Open a pull request for review.
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
-Acknowledgments
-
-    Inspired by Sudoku.com.
-    Special thanks to the open-source Python community for providing the tools to make this project possible.
-    
+ 
